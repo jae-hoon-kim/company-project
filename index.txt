@@ -3,8 +3,15 @@
 3. 나는 마스터다
 4. 나는 마스터다
 
+<<<<<<< HEAD
 a. i am leader
 b. i am leader
 c. i am leader
 d. i am leader
 
+=======
+5. 난 프레쉬맨
+6. 나는 프레쉬맨
+7. 나는 프레쉬맨
+8. 나는 프레쉬맨
+>>>>>>> aed962e6878104b7d782c168b71f6b6615a7c26a
