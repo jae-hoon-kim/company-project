@@ -15,3 +15,7 @@ d. i am leader
 7. 나는 프레쉬맨
 8. 나는 프레쉬맨
 >>>>>>> aed962e6878104b7d782c168b71f6b6615a7c26a
+
+a. i fresh
+b. i fresh
+c. i fresh
